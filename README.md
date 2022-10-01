@@ -2,10 +2,10 @@
 
 
 ## Who am I?
-- :alien: Hi, I’m <em>@DevHarleyA</em>
+- :alien: Hi, I’m <em>Elvin Garcia</em>
 - :computer: I write code.
 - :earth_africa: <strong>I’m looking to</strong> collaborate on projects that make a difference
-- 📫 <strong>How to reach me:</strong> Email me: aharleydev@gmail.com
+- 📫 <strong>How to reach me:</strong> Email me: elvingarcia.dev@gmail.com
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -25,13 +25,13 @@
 
 ## Projects
 ### Responsive Web projects:
-🌎 [Level Ground](https://jwlinitiative.netlify.app/)</br>
+🌎 [JWLI](https://jwlinitiative.netlify.app/)</br>
 🍔 [Crusine Restaurant](https://cusinerestaurant.netlify.app/)</br>
 🥋 [Level Ground](https://level-ground-mockup.netlify.app/)</br>
 
 ### Web Application projects:
-:panda_face: [Lucky Slot](https://slot-machinegame.netlify.app/)</br>
-:panda_face: [To-Do List](https://todo-list-organizer.netlify.app/)</br>
+🎰 [Lucky Slot](https://slot-machinegame.netlify.app/)</br>
+🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
 
 More projects available on my portfolio site: [Elvin Garcia's Portfolio](https://elvingarcia.netlify.app/)
