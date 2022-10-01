@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/101942628/167476842-eb77e955-3569-4fec-9ec1-9b8101df03bc.png)
+![cover](./img/cover.png)
 
 
 <h1 align="center">Hi 👋, I'm Elvin Garcia</h1>
