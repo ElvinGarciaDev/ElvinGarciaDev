@@ -18,7 +18,7 @@
 ![JSON](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=elvingarciadev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=elvingarciadev&theme=prussian	)](https://git.io/streak-stats)
 
 
 ## Projects
