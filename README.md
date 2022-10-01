@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
-![JSON](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=JSON&logoColor=white)
+![JSON](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHarleyA&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD9C00)](https://git.io/streak-stats)
 
