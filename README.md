@@ -1,4 +1,4 @@
-![cover](./img/cover.png)
+![cover](cover.png)
 
 
 <h1 align="center">Hi 👋, I'm Elvin Garcia</h1>
