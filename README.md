@@ -25,9 +25,9 @@
 
 ## Projects
 ### Responsive Web projects:
-:panda_face: [Level Ground](https://jwlinitiative.netlify.app/)</br>
-:panda_face: [Crusine Restaurant](https://cusinerestaurant.netlify.app/)</br>
-:panda_face: [Level Ground](https://level-ground-mockup.netlify.app/)</br>
+🌎 [Level Ground](https://jwlinitiative.netlify.app/)</br>
+🍔 [Crusine Restaurant](https://cusinerestaurant.netlify.app/)</br>
+🥋 [Level Ground](https://level-ground-mockup.netlify.app/)</br>
 
 ### Web Application projects:
 :panda_face: [Lucky Slot](https://slot-machinegame.netlify.app/)</br>
