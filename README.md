@@ -17,30 +17,16 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
 ![JSON](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevHarleyA&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD9C00)](https://git.io/streak-stats)
 
 ## Projects
 ### Responsive Web projects:
-:panda_face: [TechCrunch Replica](https://techcrunchproject.netlify.app/)</br>
-:panda_face: [New York Times Replica](https://nytproject.netlify.app/)</br>
-:panda_face: [JWLIA](https://jwliaproto.netlify.app/)</br>
-:panda_face: [Level Ground](https://levelgroundprototype.netlify.app/)</br>
+:panda_face: [Level Ground](https://jwlinitiative.netlify.app/)</br>
+:panda_face: [Crusine Restaurant](https://cusinerestaurant.netlify.app/)</br>
+:panda_face: [Level Ground](https://level-ground-mockup.netlify.app/)</br>
 
 ### Web Application projects:
-:panda_face: [Horoscope Generator](https://horoscopecheck.netlify.app/)</br>
-:panda_face: [Casino Bamboo](https://bambooluckyday.netlify.app/)</br>
-:panda_face: [Rock Paper Scissors: Pokemon Version](https://firstbattle.netlify.app/)</br>
-:panda_face: [Galactic-Tac-Toe](https://galactictactoe.netlify.app/)</br>
-:panda_face: [Wu-Tang Name Generator](https://wutangnamegen.netlify.app)
-
-### Group Projects
-:panda_face: [The Popcorn Critic](https://popcorn-critic.netlify.app/)</br>
-
-More projects available on my portfolio site: [DevHarleyA's Portfolio](https://aharleydev.netlify.app)
+:panda_face: [Lucky Slot](https://slot-machinegame.netlify.app/)</br>
+:panda_face: [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
 
-<!-- - 👀 <strong>I’m interested in</strong> creating websites and web applications. -->
-<!---
-DevHarleyA/DevHarleyA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+More projects available on my portfolio site: [Elvin Garcia's Portfolio](https://elvingarcia.netlify.app/)
