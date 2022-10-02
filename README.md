@@ -2,8 +2,8 @@
 
 
 ## Who am I?
-- :alien: Hi, I’m <em>Elvin Garcia</em>
-- :computer: I write code.
+- 👋🏽 Hi, I’m <em>Elvin Garcia</em> a software engineer with a background in IT support. Experienced with working in a team to support thousands of employees.
+- :computer: I'm currently learning JavaScript.
 - :earth_africa: <strong>I’m looking to</strong> collaborate on projects that make a difference
 - 📫 <strong>How to reach me:</strong> Email me: elvingarcia.dev@gmail.com
 
