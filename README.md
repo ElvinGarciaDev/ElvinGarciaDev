@@ -34,4 +34,4 @@
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
 
-More projects available on my portfolio site: [Elvin Garcia's Portfolio](https://elvingarcia.netlify.app/)
+More projects available on my portfolio site: [Elvin Garcia's Portfolio](https://elvingarcia.dev)
