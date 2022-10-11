@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=elvingarciadev&theme=prussian	)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvingarciadev&layout=compact)](https://github.com/elvingarciadev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvingarciadev&layout=compact)](https://github.com/elvingarciadev/github-readme-stats) -->
 
 
 ## Projects
