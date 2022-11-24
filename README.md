@@ -25,6 +25,11 @@
 
 
 ## Projects
+### Fullstack Application projects:
+🌎 [Discover](https://github.com/ElvinGarciaDev/Demo-Day)</br>
+🎥 [TV & Film](https://filmsandseries.up.railway.app/)</br>
+☕️ [Daily Grind Coffe Shop](https://dailygrindcafe.cyclic.app/)</br>
+
 ### Responsive Web projects:
 🌎 [JWLI](https://jwlinitiative.netlify.app/)</br>
 🍔 [Crusine Restaurant](https://cusinerestaurant.netlify.app/)</br>
@@ -32,7 +37,12 @@
 
 ### Web Application projects:
 🎰 [Lucky Slot](https://slot-machinegame.netlify.app/)</br>
+🌕 [NASA API](https://nasapicturevideo.netlify.app/)</br>
+☀️ [Weather API](https://checkweatherapi.netlify.app/)</br>
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
+
+### JAVA projects:
+🏦 [Loan Calculator](https://github.com/ElvinGarciaDev/loan-calculator-JavaFX)</br>
 
 
 More projects available on my portfolio site: [Elvin Garcia's Portfolio](https://elvingarcia.dev)
