@@ -41,6 +41,12 @@
 ☀️ [Weather API](https://checkweatherapi.netlify.app/)</br>
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
+### C++ projects:
+🛠 [Inventory Organizer](https://github.com/ElvinGarciaDev/inventory-organizer)</br>
+🗂 [File Format Conversion](https://github.com/ElvinGarciaDev/File-Format-Conversion)</br>
+🚗 [automobile Speed Distance](https://github.com/ElvinGarciaDev/automobile-speed-distance)</br>
+
+
 ### JAVA projects:
 🏦 [Loan Calculator](https://github.com/ElvinGarciaDev/loan-calculator-JavaFX)</br>
 
