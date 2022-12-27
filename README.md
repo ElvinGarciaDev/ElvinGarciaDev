@@ -27,7 +27,7 @@
 ## Projects
 ### Fullstack Application projects:
 🌎 [Discover](https://discover.up.railway.app/)</br>
-🎥 [TV & Film](https://movieandseries.onrender.com//)</br>
+🎥 [TV & Film](https://movieandseries.onrender.com/)</br>
 ☕️ [Daily Grind Coffe Shop](https://dailygrindcafe.cyclic.app/)</br>
 
 ### Responsive Web projects:
