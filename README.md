@@ -28,7 +28,7 @@
 ### Fullstack Application projects:
 🌎 [Discover](https://discover.up.railway.app/)</br>
 🎥 [Cinefilm](https://cinefilm.up.railway.app/)</br>
-☕️ [Daily Grind Coffe Shop](https://dailygrindcafe.cyclic.app/)</br>
+☕️ [Daily Grind Coffee Shop](https://dailygrindcafe.cyclic.app/)</br>
 
 ### Responsive Web projects:
 🌎 [JWLI](https://jwlinitiative.netlify.app/)</br>
