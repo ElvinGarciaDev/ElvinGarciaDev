@@ -3,7 +3,7 @@
 
 ## Who am I?
 - 👋🏽 Hi, I’m <em>Elvin Garcia</em> a software engineer with a background in IT support. I’ve helped deploy company-wide laptop upgrades, led new software onboarding training for staff, and worked closely with the engineering team to bridge the communication gap between end-users and engineers.
-- :computer: I'm currently learning JavaScript.
+- :computer: I'm currently learning React.
 - :earth_africa: <strong>I’m looking to</strong> collaborate on projects that make a difference
 - 📫 <strong>How to reach me:</strong> Email me: elvingarcia.dev@gmail.com
 
