@@ -41,6 +41,10 @@
 ☀️ [Weather API](https://checkweatherapi.netlify.app/)</br>
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
+### Group projects:
+💰 [Coin](https://coin-2022b.cyclic.app/)</br>
+
+
 ### C++ projects:
 🛠 [Inventory Organizer](https://github.com/ElvinGarciaDev/inventory-organizer)</br>
 🗂 [File Format Conversion](https://github.com/ElvinGarciaDev/File-Format-Conversion)</br>
