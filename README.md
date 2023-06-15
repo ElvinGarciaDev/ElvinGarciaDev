@@ -41,6 +41,9 @@
 ☀️ [Weather API](https://checkweatherapi.netlify.app/)</br>
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
+### React projects:
+💨 https://github.com/ElvinGarciaDev/Air-Quality-Checker
+
 ### Group projects:
 💰 [Coin](https://coin-2022b.cyclic.app/)</br>
 
