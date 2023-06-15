@@ -42,7 +42,7 @@
 🧹 [To-Do List](https://todo-list-organizer.netlify.app/)</br>
 
 ### React projects:
-💨 https://github.com/ElvinGarciaDev/Air-Quality-Checker
+💨 [AirCheck](https://github.com/ElvinGarciaDev/Air-Quality-Checker)</br>
 
 ### Group projects:
 💰 [Coin](https://coin-2022b.cyclic.app/)</br>
